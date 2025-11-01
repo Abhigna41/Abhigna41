@@ -1,26 +1,19 @@
-## Hi there 👋
+## 📊 Coding Stats
 
-<!--
-**Abhigna41/Abhigna41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## 🧠 LeetCode Stats
-
-
+### 🧠 LeetCode Stats
 [![LeetCode Stats](https://leetcard.jacoblin.cool/NagaAbhignaGunda?theme=dark&font=Montserrat&ext=heatmap&cache=3)](https://leetcode.com/u/NagaAbhignaGunda/)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NagaAbhignaGunda&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NagaAbhignaGunda&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NagaAbhignaGunda&layout=compact&theme=radical)
 
+---
 
+### 💻 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhigna41&show_icons=true&theme=radical)
 
+---
+
+### 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhigna41&theme=radical)
+
+---
+
+### 🧩 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhigna41&layout=compact&theme=radical)
