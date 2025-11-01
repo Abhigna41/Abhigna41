@@ -16,4 +16,11 @@ Here are some ideas to get you started:
 -->
 ## 🧠 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/NagaAbhignaGunda?theme=dark&font=Montserrat&ext=heatmap)](https://leetcode.com/u/NagaAbhignaGunda/)
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/NagaAbhignaGunda?theme=dark&font=Montserrat&ext=heatmap&cache=3)](https://leetcode.com/u/NagaAbhignaGunda/)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NagaAbhignaGunda&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NagaAbhignaGunda&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NagaAbhignaGunda&layout=compact&theme=radical)
+
+
+
